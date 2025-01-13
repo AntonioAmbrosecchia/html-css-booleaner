@@ -2,6 +2,10 @@ body {
     margin: 0;
 }
 
+main {
+    margin: 10px;
+}
+
 #tasto_Booleaner {
     color: #46b6e9;
 }
@@ -17,4 +21,13 @@ header {
     height: 50px;
     padding-top: 30px;
     padding-left: 10px;
+}
+
+.sottotesto {
+    color: rgb(130, 124, 124);
+    padding-bottom: 10px;
+}
+
+.sottotesto_2 {
+    font-size: 10px;
 }
